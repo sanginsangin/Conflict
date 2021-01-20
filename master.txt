@@ -10,4 +10,6 @@ Legacy code
 feature 2
 
 }
-
+{
+//More feature 2
+}
